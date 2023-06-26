@@ -6,4 +6,5 @@ my_gen = (x * 5 for x in range(1000))
 
 print(getsizeof(my_comp))
 
-print(getsizeof(my_gen))
+print(getsizeof(my_gen)) 
+
