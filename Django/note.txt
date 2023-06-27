@@ -1,0 +1,21 @@
+Django Feature
+1. The admin site
+2. Object-relational mapper (ORM)
+3. Authentication
+4. Caching
+
+Framework tradeoff:
+1. Maturity
+2. Difficulty
+3. Stability
+4. Community
+
+Command :
+
+pipenv install django 
+
+django-admin stratproject storefront .
+
+python manage.py runserver
+
+stop server =  ctrl + c 
