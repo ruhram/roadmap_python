@@ -19,3 +19,15 @@ django-admin stratproject storefront .
 python manage.py runserver
 
 stop server =  ctrl + c 
+
+------------------------------------
+
+5 entities in store online
+
+product
+collection
+
+pipenv install product 
+pipenv install customers 
+pipenv install carts 
+pipenv install orders 
