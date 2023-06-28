@@ -31,3 +31,6 @@ pipenv install product
 pipenv install customers 
 pipenv install carts 
 pipenv install orders 
+
+python manage.py startapp store
+python manage.py startapp tags 
